@@ -1,0 +1,33 @@
+
+hr{
+    background-color: orange;
+    width: 100px;
+    border: 2px solid orange;
+    margin: 10px auto;
+}
+h1{
+  color:orange
+}
+span{
+    font-size: 25px;
+    /* color: orange; */
+}
+.btn
+{ 
+    border: solid orange 1px;
+    padding: 10px 20px;
+    color: orange;
+    border-radius: 40px;
+  
+}
+.btn:hover 
+{
+    background-color: orange;
+    color: white;
+}
+
+.one a
+{
+background-color: orange;
+color: white;
+}
